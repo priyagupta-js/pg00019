@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Android Application
 - 👯 I’m looking to collaborate on JS Projects
 - 🤔 I’m looking for help with <b> Emotional Quotient </b>
-- 💬 Ask me about 
-- 📫 How to reach me: pg343004@gmail.com
+<!-- - 💬 Ask me about  -->
+- 📫 How to reach me: pgupta00019@gmail.com
 <!-- - ⚡ Fun fact:  -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pg00019&layout=compact)](https://github.com/pg00019/github-readme-stats)
