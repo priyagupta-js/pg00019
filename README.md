@@ -5,9 +5,8 @@
 -->
 
 - 🔭 I’m currently working on JS Projects
-- 🌱 I’m currently learning Android Application
 - 👯 I’m looking to collaborate on JS Projects
-- 🤔 I’m looking for help with <b> Emotional Quotient </b>
+- 🤔 I’m looking for help with <b> React JS Projects </b>
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: pgupta00019@gmail.com
 <!-- - ⚡ Fun fact:  -->
